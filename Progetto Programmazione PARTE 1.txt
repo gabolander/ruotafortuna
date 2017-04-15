@@ -1,0 +1,58 @@
+
+
+
+
+Codice gruppo: P15-G331/0506
+
+
+
+
+
+
+
+TESTO PROGETTO CORSO PROGRAMMAZIONE
+
+
+
+PRIMA PARTE DEL PROGETTO
+
+Il progetto consiste nello sviluppare un programma che 
+permetta ad un utente di giocare al gioco del:
+
+RUOTA DELLA FORTUNA
+
+modalità con 2 giocatori
+
+dare la possibilità agli utenti di girare la ruota e di comprare una vocale.
+Sulla ruota disporre i seguenti premi: 100, 200, 500 e 1000;
+il costo di una vocale: 1000
+La frase da indovinare può essere scelda da un archivio precedentemente configurato
+oppure prima dell'inizio del gioco da parte di un utente (che ovviamente non dovrà giocare!)
+
+L'interfaccia grafica deve essere schematica (a caratteri), 
+ma sviluppata in modo da rendere chiaro lo stato di avanzamento 
+del gioco.
+
+Sviluppare l'interfaccia grafica schematica.
+
+All'avvio del programma deve essere richiesto 
+il nome dell'utente che inizia a giocare.
+
+Predisporre una sezione chiamata help, richiamabile 
+in qualsiasi momento all'interno dell'applicazione, che 
+permetta agli utenti di conoscere le regole del gioco e le 
+modalità di utilizzo del programma, oltre una descrizione di 
+tutte le funzionalità disponibili.
+
+
+IN QUESTA FASE DOVETE IMPLEMENTARE ANCHE LA LOGICA DEL GIOCO,
+QUINDI DARE LA POSSIBILITA' AGLI UTENTI DI USARE IL VOSTRO PROGRAMMA
+PER FARE UNA PARTITA!
+
+
+
+
+N.B. I COMMENTI DEVONO ESSERE INSERITI COME DESCRITTO NEI PUNTI PRECEDENTI, 
+LA MANCANZA DI TALE SPECIFICHE COMPORTA L'ANNULLAMENTO DELLA CONSEGNA!
+
+

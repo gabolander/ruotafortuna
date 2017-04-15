@@ -1,0 +1,54 @@
+
+
+
+
+
+
+TESTO PROGETTO CORSO PROGRAMMAZIONE PARTE 3
+
+
+
+TERZA PARTE DEL PROGETTO
+
+La terza parte del progetto consiste in una evoluzione del 
+progetto che avete svolto per la seconda parte. In particolare 
+le modifiche comprendono: lo sviluppo di nuove funzionalità 
+e la reingegnerizzazione del codice.
+(N.B. RIMANE SEMPRE VALIDA LA RICHIESTA DI COMMENTI COME 
+DESCRITTO NELLE SPECIFICHE DEL SECONDO PROGETTO)
+
+Nuove funzionalità:
+
+Memorizzazione delle mosse fatte con possibilità di 
+annullare una o più mosse per ripartire da un certo 
+punto della partita (LA GESTIONE DEVE ESSERE FATTA CON 
+UNA PILA DINAMICA)
+
+la prima mossa fatta non potrà essere annullata
+
+Possibilità di visualizzare l'elenco le mosse fatte a
+fine partita e in QUALSIASI punto della partita da parte 
+di ogni utente
+
+Solo per gruppi formati da 2 o 3 studenti:
+
+Per ogni partita giocata in una sessione di avvio del 
+programma tenere traccia del tempo totale di gioco per 
+ogni match e visualizzare l'elenco delle partite giocate 
+indicando per ognuna il vincitore e il tempo impiegato 
+in ordine crescente di tempo
+
+Modifiche al codice:
+
+le funzioni non devono essere più lunghe di 25-30 righe di codice
+
+Non devono esistere variabili globali (costanti se necessarie 
+ovviamente possono esistere) 
+
+i nomi delle variabili e delle funzioni devono essere "parlanti" 
+ovvero leggendo il nome si deve già intuire il significato, quindi eccetto 
+per i contatoti utilizzati in cicli, NON possono esistere variabili con nomi 
+formati da una sola lettera o da abbreviazioni
+
+
+

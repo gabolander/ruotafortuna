@@ -1,0 +1,36 @@
+TESTO PROGETTO CORSO PROGRAMMAZIONE
+
+PRIMA PARTE DEL PROGETTO
+
+Il progetto consiste nello sviluppare un programma che 
+permetta ad un utente di giocare al gioco del:
+
+RUOTA DELLA FORTUNA
+
+modalit�con 2 giocatori
+
+dare la possibilit�agli utenti di girare la ruota e di comprare una vocale.
+Sulla ruota disporre i seguenti premi: 100, 200, 500 e 1000;
+il costo di una vocale: 1000
+La frase da indovinare pu�essere scelda da un archivio precedentemente configurato
+oppure prima dell'inizio del gioco da parte di un utente (che ovviamente non dovr�giocare!)
+
+L'interfaccia grafica deve essere schematica (a caratteri), 
+ma sviluppata in modo da rendere chiaro lo stato di avanzamento 
+del gioco.
+
+Sviluppare l'interfaccia grafica schematica.
+
+All'avvio del programma deve essere richiesto 
+il nome dell'utente che inizia a giocare.
+
+Predisporre una sezione chiamata help, richiamabile 
+in qualsiasi momento all'interno dell'applicazione, che 
+permetta agli utenti di conoscere le regole del gioco e le 
+modalit�di utilizzo del programma, oltre una descrizione di 
+tutte le funzionalit�disponibili.
+
+IN QUESTA FASE DOVETE IMPLEMENTARE ANCHE LA LOGICA DEL GIOCO,
+QUINDI DARE LA POSSIBILITA' AGLI UTENTI DI USARE IL VOSTRO PROGRAMMA
+PER FARE UNA PARTITA!
+

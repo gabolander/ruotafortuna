@@ -1,0 +1,73 @@
+
+
+TESTO PROGETTO CORSO PROGRAMMAZIONE PARTE 2
+
+
+
+SECONDA PARTE DEL PROGETTO
+
+La seconda parte del progetto consiste in una evoluzione del 
+progetto che avete svolto per la prima parte. In particolare 
+le modifiche comprendono: lo sviluppo di nuove funzionalità e 
+la reingegnerizzazione del codice.
+
+Nuove funzionalità da implementare:
+
+Inserire tutti i controli e relativi messaggi di 
+errore nel caso di qualsiasi inserimento errato da 
+parte dell'utente
+
+Una volta terminata la partita dare la possibilità 
+di giocarne un'altra senza uscire dal programma
+
+Dare la possibilità di terminare una partita in qualsiasi
+momento e ovviamente di poterne iniziare una nuova
+
+Per ogni mossa fatta tenere traccia del tempo impiegato per 
+eseguirla (UTILIZZARE UNA LISTA DINAMICA)
+
+Stampare l'elenco delle mosse fatte a fine partita
+
+Modifiche al codice:
+
+Utilizzo di funzioni per migliorare il codice ed evitare 
+inutili ripetizioni di porzioni di codice
+
+I commenti devono seguire le seguenti specifiche:
+
+Ogni funzione deve avere un commento prima dell'intestazione 
+che specifichi nell'ordine:
+1.nome della funzione, 
+2.breve descrizione delle funzionalità,
+3.elenco dei parametri in ingresso con relativo significato, 
+4.descrizione dell'eventuale parametro restituito.
+
+Ad esempio:
+
+/*
+* calcolaMediaValoriArray()
+* funzione che calcola la media dei valori presenti all'interno
+* di un array passato come argomento alla funzione.
+*
+* Parametri in ingresso:
+* array: vettore dei valori dei quali deve essere calcolata la media
+* dim: numero di celle presenti all'interno del vettore
+*
+* Valore restituito:
+* un float che indica la media dei valori inseriti 
+*/
+float calcolaMediaValoriArray(int array[], int dim)
+{
+...
+}
+
+Inoltre per ogni variabile o costante dichiarata deve esistere un commento 
+che ne descriva il ruolo all'interno del programma o della funzione; e devono 
+essere presenti commenti all'interno del codice che descrivano le 
+parti più salienti.
+
+N.B. I COMMENTI DEVONO ESSERE INSERITI COME DESCRITTO NEI PUNTI PRECEDENTI, 
+
+
+
+LA MANCANZA DI TALE SPECIFICHE COMPORTA L'ANNULLAMENTO DELLA CONSEGNA!

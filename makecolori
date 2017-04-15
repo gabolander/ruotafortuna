@@ -1,0 +1,1 @@
+cc colori.c -o colori -lncurses

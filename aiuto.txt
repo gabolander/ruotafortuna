@@ -1,0 +1,17 @@
+Questo e' il menu' di aiuto:
+ <H> Questo help
+ <G> Gira la ruota
+                   
+                   
+         1         2         3         4         5         6        
+12345678901234567890123456789012345678901234567890123456789012345678
+(non scrivere oltre i 68 caratteri per riga)
+                   
+                   
+                   
+                   
+                   
+
+                   
+                   
+----------- Limite finale del file di help
